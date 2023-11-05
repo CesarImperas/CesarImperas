@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cesar.c4io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocesarvieiracavalcanti@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cesar.c4io)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/caio-computacao/Caderno-de-estudos-2336d2117f8a4e5ba43a56282b4b5718?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://caio-computacao.notion.site/Caderno-de-estudos-2336d2117f8a4e5ba43a56282b4b5718?pvs=4)
 
 ## -> Soft Skills 📊
 
