@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 
-## 🔥 Hello World! I'm Caio Cesar, Computer Science undergratuate at UFCG
+## 🔥 Hello World! I'm Caio Cesar, Computer Science undergraduate at UFCG
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CesarImperas&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CesarImperas&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Caio Cesar github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarImperas&layout=compact&hide_border=true&title_color=6495ED&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
