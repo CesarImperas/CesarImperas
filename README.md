@@ -23,14 +23,14 @@
 
 ## 📞 Contact
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cesar-vieira-cavalcanti-8a36a9247/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiocesarvieira/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cesar.c4io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocesarvieiracavalcanti@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cesar.c4io)
 
 ## 😄 About me
 
-📜 Currently, I'm interested in **Software Engineering (Back-end)**, **Data Science** and **Machine Learning** <br>
+📜 Currently, I'm interested in **Software Engineering (Back-end)**, **Data Science**, **Data Analyst** and **Machine Learning** <br>
 💡 I'm a lover of technology and how it can be integrated into people's lives. <br>
 💬 I like to play video games, watch videos on YouTube, and to listen good musics from the 80's/90's 😆 <br>
 ☕ My favorite programming language is Java! <br>
