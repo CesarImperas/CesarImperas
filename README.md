@@ -4,7 +4,7 @@
 
 ### 😄 About me
 
-- Currently, I'm interested in **Software Engineering (Back-end)**, **Data Science**, **Data Analyst** and **Machine Learning** <br>
+- Currently, I'm interested in **Full-stack Development**, **Software Engineering**, **Data Science**, and **Machine Learning** <br>
 - Studying **Front-end** with HTML, CSS and JavaScript, in addition to learning technologies such as Angular combined with TypeScript. <br>
 - I'm a lover of technology and how it can be integrated into people's lives. <br>
 - I like to play video games, watch videos on YouTube, and to listen good musics from the 80's/90's - Japanese City Pop <br>
