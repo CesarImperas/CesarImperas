@@ -9,6 +9,8 @@
 - I'm a lover of technology and how it can be integrated into people's lives. <br>
 - I like to play video games, watch videos on YouTube, and to listen good musics from the 80's/90's - Japanese City Pop <br>
 
+💻 Current Position: **Researcher and Developer** (PD&I Student) at [**VIRTUS**](https://www.virtus.ufcg.edu.br/)
+
 ☕ My favorite programming language is Java! <br>
 
 ⚠️**Always allow yourself to explore the horizon of what is still unknown...** 
