@@ -4,12 +4,12 @@
 
 ### 😄 About me
 
-- Currently, I'm interested in **Full-stack Development**, **Software Engineering**, **Data Science**, and **Machine Learning** <br>
+- Currently, I'm interested in **Full-stack Development**, **Software Engineering**, **DevOps**, **Data Science**, and **Machine Learning** <br>
 - Studying **Front-end** with HTML, CSS and JavaScript, in addition to learning technologies such as Angular combined with TypeScript. <br>
 - I'm a lover of technology and how it can be integrated into people's lives. <br>
 - I like to play video games, watch videos on YouTube, and to listen good musics from the 80's/90's - Japanese City Pop <br>
 
-💻 Current Position: **Researcher and Developer** (PD&I Student) at [**VIRTUS**](https://www.virtus.ufcg.edu.br/)
+💻 Current Position: **Researcher and Developer** (PD&I Student) at [**VIRTUS**](https://www.virtus.ufcg.edu.br/) -- **E2E Test Automation Developer** using Cypress
 
 ☕ My favorite programming language is Java! <br>
 
@@ -20,7 +20,7 @@
 ### 📚 Hard Skills
 
 [![Back-end](https://skillicons.dev/icons?i=java,clojure,python,cpp)](https://skillicons.dev) <br>
-[![Front-end](https://skillicons.dev/icons?i=typescript,javascript,html,css)](https://skillicons.dev) <br>
+[![Front-end](https://skillicons.dev/icons?i=typescript,javascript,html,css,cypress)](https://skillicons.dev) <br>
 [![Others](https://skillicons.dev/icons?i=angular,spring,mysql,postgres,git,linux)](https://skillicons.dev)
 
 <hr style="border: 10px solid #ccc; width: 70%; margin: 10px auto;">
@@ -37,7 +37,5 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cesar.c4io/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:caiocesarvieiracavalcanti@gmail.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/cesar.c4io)
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
